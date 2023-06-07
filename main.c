@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main(){
-    printf("main.c runnign");
+    printf("hello github action");
 }
